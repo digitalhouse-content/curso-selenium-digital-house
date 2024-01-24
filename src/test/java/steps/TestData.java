@@ -1,3 +1,5 @@
+package steps;
+
 public class TestData {
 
     public static final String NAME = "Manuel Ledezma";
